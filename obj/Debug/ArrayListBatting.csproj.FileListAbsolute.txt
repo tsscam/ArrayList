@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListBatting\ArrayListBatting\bin\Debug\ArrayListBatting.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListBatting\ArrayListBatting\bin\Debug\ArrayListBatting.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListBatting\ArrayListBatting\bin\Debug\ArrayListBatting.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListBatting\ArrayListBatting\obj\Debug\ArrayListBatting.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListBatting\ArrayListBatting\obj\Debug\ArrayListBatting.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListBatting\ArrayListBatting\obj\Debug\ArrayListBatting.pdb
